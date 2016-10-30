@@ -1,4 +1,4 @@
-//JohnMytemplate01
+//helloworld.cpp
 //McClenon, John M.
 // 10/30/2016.
 
