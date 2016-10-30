@@ -1,6 +1,7 @@
 //helloworld.cpp
 //McClenon, John M.
-// 10/30/2016.
+//10/30/2016.
+//Created on GitHub
 
 #include<iostream>
 using namespace std;
